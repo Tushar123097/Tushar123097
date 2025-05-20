@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tusahr Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India (Ayodhya)</h3>
+<h3 align="center">A passionate frontend developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?usernam![Scree![Screenshot (148)](https://github.com/user-attachments/assets/f2d1f053-649a-4dad-af2c-e92ba28bb73a)
 nshot (148)](https://github.com/user-attachments/assets/8344b9bc-bb75-44d1-acdb-fac15c6e71e2)
