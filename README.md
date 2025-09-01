@@ -22,12 +22,17 @@ e=tushar123097&label=Profile%20views&color=0e75b6&style=flat" alt="tushar123097"
 </p>
 ## 🚀 My Projects
 
-| **Project Name**     | **Tech Stack**                      | **Duration**           | **Description**                      | **GitHub Link**                                                                 | **Live Link**                                                           |
-|----------------------|-------------------------------------|------------------------|--------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| My Portfolio         | HTML, CSS, JavaScript              | Jan 2024 – Feb 2024    | Responsive UI, modern layout         | [GitHub 🔗](https://github.com/Tushar123097/scndportfolio-main)                 | [Live 🌐](https://tushar123097.github.io/scndportfolio-main/)          |
-| Quiz App             | HTML, CSS, JavaScript              | Feb 2024               | Interactive quiz with score logic    | [GitHub 🔗](https://github.com/Tushar123097/modernquizappwithanimation)         | [Live 🌐](https://tushar123097.github.io/modernquizappwithanimation/)   |
-| eCommerce App        | React, Tailwind, Framer Motion     | April 2024             | Animated, responsive portfolio       | [GitHub 🔗](https://github.com/Tushar123097/ecommerce-app)                       | [Live 🌐](https://tushar123097.github.io/ecommerce-app/)                |
-| Room Rent Website    | React, TypeScript, Tailwind CSS    | May 2025               | Search, filter, featured listings    | [GitHub 🔗](https://github.com/Tushar123097/Home-rent-app)                       | [Live 🌐](https://monumental-pony-b29394.netlify.app)                   |
+## 🚀 Projects
+
+| **Project Name**           | **Tech Stack**                  | **Duration**        | **Description**                            | **GitHub Link**                                                                 | **Live Link**                                                                 |
+|-----------------------------|---------------------------------|---------------------|--------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| My Portfolio                | HTML, CSS, JavaScript          | Jan 2024 – Feb 2024 | Responsive UI, modern layout               | [GitHub 🔗](https://github.com/Tushar123097/scndportfolio-main)                 | [Live 🌐](https://tushar123097.github.io/scndportfolio-main/)                  |
+| Quiz App                    | HTML, CSS, JavaScript          | Feb 2024            | Interactive quiz with score logic          | [GitHub 🔗](https://github.com/Tushar123097/modernquizappwithanimation)         | [Live 🌐](https://tushar123097.github.io/modernquizappwithanimation/)          |
+| eCommerce App               | React, Tailwind, Framer Motion | Apr 2024            | Animated, responsive portfolio             | [GitHub 🔗](https://github.com/Tushar123097/ecommerce-app)                       | [Live 🌐](https://tushar123097.github.io/ecommerce-app/)                       |
+| Room Rent Website           | React, TypeScript, Tailwind    | May 2025            | Search, filter, featured listings          | [GitHub 🔗](https://github.com/Tushar123097/Home-rent-app)                       | [Live 🌐](https://monumental-pony-b29394.netlify.app)                          |
+| AI Assistant (Full Stack)   | MERN, Google Gemini API, Tailwind CSS | Aug 2025            | AI-powered chat assistant with real-time Q&A | [GitHub 🔗](https://github.com/Tushar123097/AI-Chat-Assistant)                  | [Live 🌐](https://ai-chat-assistant-tushar.netlify.app/)                       |
+| AI Interview Job Platform   | MERN, Next.js, Tailwind CSS    | July 2025            | AI-powered interview prep & job platform   | [GitHub 🔗](https://github.com/Tushar123097/hirebyai-platform)                  | [Live 🌐](https://ai-interview-india-jobs-opal.vercel.app/)                    |
+
 
 
 <h3 align="left">Languages and Tools:</h3>
