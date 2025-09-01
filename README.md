@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Tusahr Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+<h1 align="center">Hi 👋, I'm Tusahr </h1>
+<h3 align="center">Full Stack Developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?usernam![Scree![Screenshot (148)](https://github.com/user-attachments/assets/f2d1f053-649a-4dad-af2c-e92ba28bb73a)
 nshot (148)](https://github.com/user-attachments/assets/8344b9bc-bb75-44d1-acdb-fac15c6e71e2)
@@ -9,7 +9,7 @@ e=tushar123097&label=Profile%20views&color=0e75b6&style=flat" alt="tushar123097"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar123097" alt="tushar123097" /></a> </p>
 
 
-## 🖼️ Codolio Portfolio Snapshot
+## 🖼️ Codolio Portfolio Snapshot(Apna idhar mehnat hai)
 
 
 
